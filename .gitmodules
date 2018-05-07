@@ -1,3 +1,6 @@
 [submodule "database"]
 	path = database
 	url = https://github.com/Wunsit/database
+[submodule "server"]
+	path = server
+	url = https://github.com/Wunsit/server
